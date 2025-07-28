@@ -36,4 +36,5 @@ Thinking based on the philosophical flavor of science
 
 ## 许可
 
-本项目采用(LICENSE.md)。
+本项目采用([LICENSE.md](https://github.com/user-attachments/files/21462312/LICENSE.md)
+)。
