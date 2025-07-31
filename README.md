@@ -14,11 +14,11 @@
 
 本项目包含了一系列关于科学与哲学的深度探讨，核心围绕“奖励函数”这一概念，从人类和人工智能两个维度展开。
 
-  * **[奖励函数：从自私的基因到超级智能机器](https://www.google.com/search?q=./%E5%A5%96%E5%8A%B1%E5%87%BD%E6%95%B0%EF%BC%9A%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)**
+  * **[奖励函数：从自私的基因到超级智能机器]([奖励函数：人与人工智能_.md](https://github.com/user-attachments/files/21523038/_.md))**
       * *一份系统性地、跨学科的深度报告，追溯了从基因的底层逻辑到人类复杂的神经回路，最终审视人工智能的目标、动机及其与人类价值对齐的根本挑战。*
-  * **[欲望的架构：解构人类与人工智能的奖励系统](https://www.google.com/search?q=./%E5%A5%96%E5%8A%B1%E5%87%BD%E6%95%B0%EF%BC%9A%E8%A7%A3%E6%9E%84%E4%BA%BA%E7%B1%BB%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F.md)**
+  * **[欲望的架构：解构人类与人工智能的奖励系统](https://github.com/maozida880/Science-and-Philosophy/blob/main/%E5%A5%96%E5%8A%B1%E5%87%BD%E6%95%B0%EF%BC%9A%E8%A7%A3%E6%9E%84%E4%BA%BA%E7%B1%BB%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F.md)**
       * *该报告通过探索人类和机器的“欲望架构”，解构了关于能动性的复杂问题，深入比较了人类与AI的动机、它们平行的失灵模式，以及涌现性目标对未来的影响。*
-  * **[人类行为系统的整合性神经社会学分析](https://www.google.com/search?q=./%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BA%BA%E7%B1%BB%E8%A1%8C%E4%B8%BA%E5%88%86%E7%B1%BB.md)**
+  * **[人类行为系统的整合性神经社会学分析](https://github.com/maozida880/Science-and-Philosophy/blob/main/%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BA%BA%E7%B1%BB%E8%A1%8C%E4%B8%BA%E5%88%86%E7%B1%BB.md)**
       * *该分析提出了一个基于双重奖励系统（自下而上与自上而下）的人类行为分类框架，并运用神经科学、社会学和进化论的证据，对繁衍、发展、生存等行为系统进行了深入的剖析。*
 
 
@@ -39,4 +39,4 @@
 
 ## 许可
 
-本项目采用 [MIT License](https://www.google.com/search?q=./LICENSE.md) 许可。
+本项目采用 [MIT License]([LICENSE.md](https://github.com/user-attachments/files/21523048/LICENSE.md)) 许可。
