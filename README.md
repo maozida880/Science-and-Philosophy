@@ -46,4 +46,4 @@ Science and Philosophy 项目旨在成为一个不断发展的知识库。未来
 
 ## **许可**
 
-本项目采用 MIT License 许可。
+本项目采用 [**MIT License**](https://github.com/maozida880/Science-and-Philosophy/blob/main/LICENSE.md) 许可。
