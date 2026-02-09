@@ -4,8 +4,8 @@
 ## Dissipative Action Principles and Holographic Duality: 
 ## A Unified Framework from Bateman Duality to Fractional Dynamics
 
-**作者**: Wenqin Zhang (张文沁)  
-**单位**: 清华大学物理系  
+**作者**: W.Q. Zhang 
+**单位**: 清华大学
 **邮箱**: zwq21@mails.tsinghua.edu.cn  
 **研究日期**: 2026年2月9日  
 **研究状态**: 进行中 (文献调研完成，专家咨询已启动)
